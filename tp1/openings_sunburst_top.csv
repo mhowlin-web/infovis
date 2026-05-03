@@ -1,0 +1,23 @@
+family,variation,subvariation,games,wins,losses,draws,win_rate
+Barnes Defense,Barnes Defense,Barnes Defense,25,10,15,0,0.4
+Bishop's Opening,Berlin Defense,Berlin Defense,29,13,15,1,0.448
+Bishop's Opening,Bishop's Opening,Bishop's Opening,2,0,2,0,0.0
+Bishop's Opening,Horwitz Gambit,Horwitz Gambit,4,0,3,1,0.0
+Four Knights Game,Four Knights Game,Four Knights Game,11,3,8,0,0.273
+Four Knights Game,Italian Variation,Italian Variation,49,14,35,0,0.286
+Four Knights Game,Spanish Variation,Spanish Variation,10,0,10,0,0.0
+French Defense,Advance Variation,Advance Variation,7,1,6,0,0.143
+French Defense,French Defense,French Defense,14,4,10,0,0.286
+French Defense,Hecht-Reefschläger Variation,Hecht-Reefschläger Variation,4,1,3,0,0.25
+French Defense,McCutcheon Variation,Wolf Gambit,1,0,1,0,0.0
+Ruy Lopez,Berlin Defense,Berlin Defense,2,0,2,0,0.0
+Ruy Lopez,Berlin Defense,Berlin Wall,1,0,1,0,0.0
+Ruy Lopez,Berlin Defense,Closed Bernstein Variation,1,0,1,0,0.0
+Ruy Lopez,Bird Variation,Bird Variation,1,0,1,0,0.0
+Ruy Lopez,Bird's Defense Deferred,Bird's Defense Deferred,6,1,5,0,0.167
+Ruy Lopez,Brix Variation,Brix Variation,21,0,21,0,0.0
+Ruy Lopez,Classical Defense,Benelux Variation,1,0,1,0,0.0
+Ruy Lopez,Morphy Defense,Anderssen Variation,3,0,3,0,0.0
+Ruy Lopez,Morphy Defense,Modern Steinitz Defense,1,0,1,0,0.0
+Ruy Lopez,Ruy Lopez,Ruy Lopez,1,0,1,0,0.0
+Scandinavian Defense,Scandinavian Defense,Scandinavian Defense,33,18,15,0,0.545
