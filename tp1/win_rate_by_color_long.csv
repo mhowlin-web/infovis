@@ -1,0 +1,10 @@
+color,outcome,pct,count,total
+black,win,30.1,68,226
+black,draw,1.3,3,226
+black,loss,68.6,155,226
+white,win,35.5,81,228
+white,draw,0.4,1,228
+white,loss,64.0,146,228
+both,win,32.8,149,454
+both,draw,0.9,4,454
+both,loss,66.3,301,454
