@@ -1,0 +1,440 @@
+﻿Date;Outcome;Full Moves;My Rating;Opponent Rating;Rating Diff;Color;Opening;Time Class
+2020-11-11 19:32:06;loss;41;712;1102;-390;white;Alapin Sicilian Defense;rapid
+2020-12-17 22:17:03;loss;34;669;1102;-433;black;Pirc Defense Modern Defense Geller System 2...Nf6 3.Nc3 e5 4.Bc4;rapid
+2020-12-17 22:44:30;loss;33;555;723;-168;white;Owens Defense 2.d4 Bb7;rapid
+2020-12-22 23:00:10;loss;33;499;744;-245;black;Kings Fianchetto Opening 1...e5 2.Bg2 Nf6;rapid
+2020-12-23 23:17:19;loss;34;464;759;-295;white;Owens Defense 2.d4 Bb7;rapid
+2021-01-28 01:36:08;loss;18;654;946;-292;black;Four Knights Game Italian Variation;daily
+2021-01-28 02:15:58;loss;28;597;1003;-406;black;Queens Pawn Opening Symmetrical Variation 3.c4;daily
+2021-01-28 02:28:32;loss;25;565;1035;-470;white;Vienna Game Falkbeer Variation;daily
+2021-01-28 19:33:48;loss;30;543;1057;-514;white;Queens Pawn Opening Zukertort Chigorin Variation;daily
+2021-02-10 00:08:57;loss;16;526;1074;-548;black;Philidor Defense;daily
+2021-02-10 01:19:59;loss;24;513;1087;-574;white;French Defense Normal Variation 2...d5 3.Nc3;daily
+2021-02-13 14:09:26;loss;31;502;1098;-596;white;French Defense Knight Variation Two Knights Variation 3...Nf6;daily
+2021-02-14 03:22:54;loss;37;493;1107;-614;black;Four Knights Game Spanish Variation Classical Variation 5.O O O O;daily
+2021-02-17 19:36:43;loss;19;487;1136;-649;white;French Defense Normal Variation 2...d5 3.Nc3;daily
+2021-02-19 01:11:58;loss;32;482;1143;-661;black;Four Knights Game Spanish Variation 4...Bd6 5.O O O O 6.d3;daily
+2021-02-19 16:43:47;loss;19;479;1207;-728;black;Italian Game Two Knights Modern Bishops Opening;daily
+2021-02-19 22:22:09;loss;25;472;1214;-742;white;Sicilian Defense Old Sicilian Variation 3.d3 d6;daily
+2021-02-19 23:09:26;loss;28;466;1226;-760;black;Scotch Game 3...d6;daily
+2021-02-20 02:48:15;loss;27;462;1170;-708;white;Giuoco Piano Game Four Knights Game 5.O O;daily
+2021-02-20 15:03:25;loss;35;438;862;-424;black;Four Knights Game Italian Variation;daily
+2021-02-22 17:55:18;loss;18;436;1207;-771;black;Ruy Lopez Opening Birds Defense 4.Nxd4 exd4;daily
+2021-02-22 23:50:19;loss;24;434;1208;-774;white;Sicilian Defense Bowdler Attack 2...e6 3.Nc3 Nc6;daily
+2021-02-23 00:53:47;loss;27;432;1206;-774;white;Scandinavian Defense Closed 2...d4;daily
+2021-02-27 19:54:08;loss;36;430;1226;-796;black;Giuoco Piano Game 4.Nc3;daily
+2021-03-02 03:05:21;loss;33;429;1273;-844;white;Sicilian Defense Old Sicilian Variation 3.Bc4;daily
+2021-03-02 12:54:36;win;10;487;394;93;white;Giuoco Piano Game Four Knights Game;daily
+2021-03-04 15:48:58;loss;28;485;1259;-774;black;Giuoco Piano Game 4.O O Nf6 5.Nc3 d6;daily
+2021-03-06 13:38:00;loss;20;484;1283;-799;white;Petrovs Defense 3.d3 Nc6 4.Be2;daily
+2021-03-08 07:08:56;win;28;533;455;78;black;Queens Pawn Opening 1...d5 2.e3 Nf6;daily
+2021-03-10 18:58:56;loss;40;532;1328;-796;black;Ruy Lopez Opening;daily
+2021-03-13 00:15:53;loss;33;531;1324;-793;black;Ruy Lopez Opening Morphy Defense Caro Variation 5.Bb3;daily
+2021-03-13 02:21:07;win;41;631;1294;-663;white;Caro Kann Defense 2.d4 d5 3.Nc3 dxe4;daily
+2021-03-15 00:06:33;loss;23;629;1312;-683;black;Ruy Lopez Opening Morphy Defense Columbus Variation...5.O O b5 6.Bb3 Bc5 7.Nc3;daily
+2021-03-15 03:19:07;win;21;686;722;-36;black;Petrovs Defense 3.d3 Nc6;daily
+2021-03-16 17:40:08;win;27;726;655;71;white;Italian Game;daily
+2021-03-16 20:33:06;loss;23;646;928;-282;white;;blitz
+2021-03-17 23:08:03;loss;36;724;1354;-630;white;Slav Defense;daily
+2021-03-18 00:13:46;loss;21;654;946;-292;black;;daily
+2021-03-19 21:53:26;win;33;752;637;115;white;Philidor Defense 3.Nc3;daily
+2021-03-22 18:03:00;loss;25;752;749;3;white;Owens Defense 2.d4 Bb7 3.Nc3;daily
+2021-03-30 00:43:57;loss;49;750;1381;-631;white;Sicilian Defense Bowdler Attack 2...Nc6;daily
+2021-04-03 00:59:54;loss;33;748;1402;-654;black;Ruy Lopez Opening Morphy Defense Columbus Variation...5.O O b5 6.Bb3 Bc5 7.Nc3;daily
+2021-04-14 00:50:41;loss;28;747;1450;-703;white;Sicilian Defense French Variation;daily
+2021-04-25 01:40:49;loss;25;746;1460;-714;black;Ruy Lopez Opening Classical Defense 4.O O;daily
+2021-04-27 18:45:44;loss;25;459;1108;-649;black;Bishops Opening Berlin Defense;rapid
+2021-05-01 19:27:14;loss;29;745;1470;-725;white;Italian Game Knight Attack Normal Variation 5.exd5;daily
+2021-05-13 03:31:52;loss;44;744;1494;-750;black;Ruy Lopez Opening Morphy Defense Caro Graz Variation;daily
+2021-05-18 01:21:16;loss;27;743;1494;-751;white;Sicilian Defense Bowdler Attack 2...Nc6;daily
+2021-05-24 03:00:02;loss;35;742;1494;-752;black;Philidor Defense;daily
+2021-05-29 17:49:39;loss;40;741;1498;-757;white;Sicilian Defense Bowdler Attack 2...Nc6;daily
+2021-06-04 19:05:15;loss;30;740;1518;-778;black;Four Knights Game Spanish Variation Classical Variation;daily
+2021-06-12 01:39:33;loss;24;739;1523;-784;white;Italian Game Knight Attack Normal Variation 5.exd5;daily
+2021-06-19 14:01:19;loss;28;738;1523;-785;black;Ruy Lopez Opening Morphy Defense Columbus Variation...6.Bb3 Bc5 7.Nc3 d6;daily
+2021-06-27 21:57:21;loss;30;737;1523;-786;white;Italian Game;daily
+2021-07-20 03:18:09;loss;30;736;1546;-810;black;Philidor Defense 3.Nc3;daily
+2021-08-10 15:42:47;loss;46;735;1585;-850;white;Sicilian Defense Bowdler Attack 2...e6;daily
+2021-08-12 20:21:28;win;23;750;446;304;black;Kings Pawn Opening Kings Knight Variation;daily
+2021-08-18 00:24:27;loss;26;749;1578;-829;white;Kings Pawn Opening Kings Knight Variation 2...Nc6;daily
+2021-08-28 14:51:58;loss;30;748;1576;-828;black;Vienna Game Anderssen Defense 3.Nf3;daily
+2021-09-01 03:56:30;loss;23;747;1576;-829;white;Bishops Opening;daily
+2021-09-04 02:51:40;win;30;773;622;151;white;Pirc Defense Main Line Kholmov System;daily
+2021-09-04 20:24:42;loss;40;772;1590;-818;black;Ruy Lopez Opening Morphy Defense Columbus Variation...5.O O b5 6.Bb3 Bc5;daily
+2021-09-06 17:44:07;loss;14;795;1590;-795;white;Italian Game Two Knights Modern Bishops Opening 4...h6 5.Nc3;daily
+2021-09-09 00:40:08;loss;31;794;1590;-796;black;Four Knights Game Spanish Variation Classical Variation;daily
+2021-09-10 23:23:57;loss;20;752;685;67;black;Center Game;daily
+2021-09-11 22:38:46;win;11;791;858;-67;black;Bishops Opening Berlin Defense 3.d3;daily
+2021-09-12 23:42:49;loss;36;790;1589;-799;white;Nimzowitsch Defense;daily
+2021-09-15 02:59:20;loss;26;789;1589;-800;black;Queens Gambit Declined 3.e3;daily
+2021-09-18 01:57:47;win;44;829;944;-115;black;Petrovs Defense Classical Variation;daily
+2021-09-21 03:09:19;win;34;846;694;152;white;Philidor Defense 3.Bc4;daily
+2021-09-24 02:14:55;win;14;863;725;138;black;Italian Game Two Knights Defense 4.O O;daily
+2021-09-24 13:20:54;win;64;911;1570;-659;white;Italian Game Knight Attack Normal Variation 5.exd5;daily
+2021-09-28 01:44:09;loss;32;910;1571;-661;black;Giuoco Piano Game Four Knights Game;daily
+2021-10-02 16:28:32;draw;30;459;243;216;black;Queens Pawn Opening 1...d5 2.g3;rapid
+2021-10-05 01:02:09;loss;22;909;1579;-670;white;Italian Game Two Knights Modern Bishops Opening 4...h6 5.Nc3;daily
+2021-10-07 12:45:32;loss;45;901;1209;-308;black;Bishops Opening Berlin Defense 3.d3 Bc5;daily
+2021-10-09 22:00:51;loss;25;900;1593;-693;black;Pirc Defense Modern Defense Geller System 2...Nf6 3.Nc3 e5 4.Bc4;daily
+2021-10-15 17:21:25;loss;26;899;1602;-703;white;French Defense;daily
+2021-10-18 19:16:57;win;46;939;1179;-240;white;French Defense Advance Extended Bishop Swap Variation;daily
+2021-10-20 23:53:00;loss;30;938;1632;-694;black;Queens Gambit Declined Queens Knight Variation 3...Nf6 4.e3;daily
+2021-10-21 23:22:42;draw;48;938;931;7;white;Reti Opening Queenside Fianchetto Variation 2.e4 Bb7 3.Nc3;daily
+2021-10-27 15:50:08;loss;22;937;1632;-695;white;French Defense Normal Variation 2...d5;daily
+2021-10-29 12:11:50;win;40;951;804;147;white;French Defense Knight Variation 2...d5 3.e5;daily
+2021-10-30 02:32:15;win;43;982;1151;-169;black;Center Game;daily
+2021-11-01 00:24:10;loss;29;981;1633;-652;black;Ruy Lopez Opening Morphy Defense Tarrasch Variation 5...b5 6.Bb3;daily
+2021-11-03 15:40:45;loss;27;970;1161;-191;white;Philidor Defense 3.Nc3;daily
+2021-11-09 22:32:58;loss;19;946;897;49;black;Colle System;daily
+2021-11-13 05:57:00;loss;33;945;1641;-696;white;Sicilian Defense;daily
+2021-11-17 13:55:13;loss;35;945;1170;-225;black;Petrovs Defense Classical Variation;daily
+2021-12-02 08:03:33;loss;25;938;1215;-277;white;Kings Pawn Opening Kings Knight Variation;daily
+2021-12-02 13:31:01;loss;34;937;1642;-705;black;Queens Gambit Declined 3.e3;daily
+2021-12-03 23:50:54;win;45;963;1084;-121;white;Nimzowitsch Defense 2.d4 e6 3.Nf3;daily
+2021-12-08 21:51:05;loss;13;962;1648;-686;white;Caro Kann Defense;daily
+2021-12-14 00:24:37;loss;19;961;1656;-695;black;Slav Defense 3.e3 Nf6 4.Nc3;daily
+2021-12-14 15:20:03;win;12;973;823;150;white;Petrovs Defense 3.d3 Nc6 4.c3;daily
+2021-12-20 14:09:43;loss;34;965;1196;-231;black;Colle System 3...e6;daily
+2021-12-21 13:07:18;win;26;973;735;238;white;Giuoco Piano Game 4.O O d6;daily
+2021-12-24 21:34:00;loss;15;972;1657;-685;white;Sicilian Defense Old Sicilian Variation 3.Bc4 e6;daily
+2022-01-06 14:22:37;loss;21;971;1679;-708;black;Ruy Lopez Opening Morphy Defense Caro Variation 5.Bb3;daily
+2022-01-10 21:07:16;loss;29;952;959;-7;black;Petrovs Defense Three Knights Game;daily
+2022-01-17 20:16:10;loss;17;951;1670;-719;white;Italian Game Two Knights Modern Bishops Opening 4...h6 5.O O;daily
+2022-01-25 15:46:39;loss;53;944;1213;-269;white;French Defense Knight Variation 2...d5 3.e5;daily
+2022-02-18 17:43:00;loss;22;944;1724;-780;black;Ruy Lopez Opening Morphy Defense Columbus Variation...5.O O b5 6.Bb3 Bc5 7.Nc3;daily
+2022-04-07 14:47:25;loss;43;943;1723;-780;white;Giuoco Piano Game 4.O O Nf6;daily
+2022-05-15 20:20:05;win;30;967;923;44;black;English Opening Kings English Variation 2.g3 Nf6 3.Bg2 Bc5;daily
+2022-06-05 16:03:12;loss;60;966;1703;-737;black;Four Knights Game Double Spanish Variation;daily
+2022-07-11 03:54:55;loss;46;965;1704;-739;white;Italian Game;daily
+2022-07-13 00:54:55;win;28;992;938;54;white;Italian Game Knight Attack Polerio Kieseritzky Variation;daily
+2022-07-14 20:42:53;loss;16;991;1705;-714;black;Ruy Lopez Opening Morphy Defense Columbus Variation...6.Bb3 Bc5 7.Nc3 d6;daily
+2022-07-18 23:14:07;win;10;1028;1135;-107;black;Center Game;daily
+2022-07-23 17:17:02;loss;36;1027;1706;-679;white;Alapin Sicilian Defense 2...Nc6 3.Nf3 d6;daily
+2022-07-27 01:16:08;loss;12;1026;1707;-681;black;Queens Gambit Declined Albin Countergambit 3.e3;daily
+2022-07-27 23:28:24;win;52;1052;1046;6;white;Scandinavian Defense;daily
+2022-08-04 03:36:47;win;36;1071;984;87;white;Pirc Defense Antal Defense;daily
+2022-08-07 23:26:34;loss;35;1070;1690;-620;white;Caro Kann Defense Advance Variation...4.Bd3 Bxd3 5.Qxd3 e6;daily
+2022-08-09 08:21:55;loss;17;1045;1036;9;black;Bishops Opening Berlin Spielmann Attack;daily
+2022-08-14 22:48:05;loss;16;1044;1691;-647;black;Slav Defense 3.Nc3 Nf6 4.e3 Bf5 5.Nf3;daily
+2022-08-27 22:50:03;loss;15;1043;1692;-649;white;French Defense Normal Variation 2...d5;daily
+2022-09-10 22:59:07;loss;19;1042;1693;-651;black;Giuoco Piano Game 4.O O Nf6 5.Nc3 d6;daily
+2022-10-12 20:48:09;loss;28;1041;1731;-690;white;Sicilian Defense Bowdler Attack 2...e6;daily
+2022-10-29 00:07:33;loss;28;1040;1732;-692;black;Queens Pawn Opening Chigorin Variation 2...Nf6 3.Nf3;daily
+2022-11-19 16:25:03;loss;31;1038;1682;-644;white;Italian Game Two Knights Modern Bishops Opening 4...h6 5.Nc3;daily
+2022-11-27 06:17:56;loss;34;1022;1223;-201;black;Bishops Opening Berlin Defense;daily
+2022-12-02 18:08:19;loss;13;1021;1683;-662;black;Ruy Lopez Opening Morphy Defense Columbus Variation...5.O O b5 6.Bb3 Bc5 7.d3;daily
+2022-12-13 23:29:59;win;47;1060;1174;-114;white;Scandinavian Defense;daily
+2022-12-18 04:04:22;loss;23;1058;1684;-626;white;Bishops Opening Berlin Defense;daily
+2022-12-22 15:22:50;loss;11;1041;1195;-154;black;Bishops Opening Berlin Defense;daily
+2023-01-04 02:30:21;loss;32;1040;1685;-645;black;Ruy Lopez Opening Morphy Defense Columbus Variation...5.O O b5 6.Bb3 Nxe4;daily
+2023-01-09 00:32:16;win;67;1073;1155;-82;white;Scandinavian Defense;daily
+2023-01-16 11:46:10;loss;19;1056;1176;-120;black;Petrovs Defense;daily
+2023-01-18 19:44:05;loss;43;1055;1686;-631;white;Bishops Opening Berlin Defense;daily
+2023-01-20 19:18:56;loss;11;1049;1418;-369;black;Colle System 3...e6 4.Bd3;daily
+2023-01-24 18:36:53;loss;22;1048;1687;-639;black;Ruy Lopez Opening Morphy Defense Columbus Variation...5.O O b5 6.Bb3 Bc5 7.Nc3;daily
+2023-02-03 18:21:08;loss;53;1031;1125;-94;white;Scandinavian Defense Closed 2...d4;daily
+2023-02-09 06:29:55;loss;27;1030;1688;-658;white;Italian Game Two Knights Modern Bishops Opening 4...h6 5.Nc3;daily
+2023-02-15 21:14:43;loss;16;1029;1689;-660;black;Ruy Lopez Opening Berlin Beverwijk Variation 5.d3;daily
+2023-02-22 11:21:42;loss;49;1015;1146;-131;black;Torre Attack Classical Defense Nimzowitsch Variation 4.Bxf6 Qxf6;daily
+2023-02-25 01:03:37;loss;31;1014;1690;-676;white;Giuoco Piano Game Four Knights Game;daily
+2023-03-04 20:05:18;loss;32;1003;1167;-164;white;Scandinavian Defense Closed 2...d4;daily
+2023-03-07 00:52:10;loss;29;1002;1691;-689;black;Kings Fianchetto Opening 1...d5 2.Bg2 e5 3.d3;daily
+2023-03-20 23:11:15;win;29;1029;1206;-177;black;Reti Opening Sicilian Invitation 2.e3;daily
+2023-03-27 12:13:37;loss;41;1028;1729;-701;white;Scandinavian Defense Closed 2...d4;daily
+2023-03-28 13:36:09;loss;24;1019;1200;-181;white;Scandinavian Defense;daily
+2023-04-01 12:34:09;loss;21;1013;1297;-284;black;Queens Gambit Declined Chigorin Defense 3.Nf3 e6 4.Nc3 Nf6 5.Bg5;daily
+2023-04-04 21:15:46;loss;16;1012;1730;-718;black;Ruy Lopez Opening Morphy Defense Columbus Variation...5.O O b5 6.Bb3 Bc5 7.Nc3;daily
+2023-04-22 01:48:33;loss;34;1003;1176;-173;black;Queens Pawn Opening Zukertort Chigorin Variation;daily
+2023-04-24 00:31:32;loss;35;1002;1731;-729;white;Queens Pawn Opening Blackmar Gambit 2...dxe4;daily
+2023-05-07 02:12:48;loss;32;994;1188;-194;white;Scandinavian Defense 2.e5;daily
+2023-05-09 18:21:53;loss;35;993;1709;-716;black;Ruy Lopez Opening Morphy Defense Columbus Variation...5.O O b5 6.Bb3 Bc5 7.d3;daily
+2023-05-17 13:45:00;loss;53;982;1083;-101;white;Four Knights Game Italian Variation;daily
+2023-05-26 17:08:16;loss;26;975;1192;-217;black;Kings Pawn Opening Leonardis Variation 2...Nf6;daily
+2023-05-30 17:34:48;loss;27;975;1724;-749;white;Caro Kann Defense Advance Short Variation with 4 Nf3...e6;daily
+2023-06-07 22:46:07;loss;34;975;1725;-750;black;Italian Game;daily
+2023-06-08 10:36:34;loss;42;969;1196;-227;white;Scandinavian Defense Closed 2...dxe4 3.Nxe4 Bf5;daily
+2023-06-08 10:42:27;win;38;989;1183;-194;black;Bishops Opening Berlin Defense;daily
+2023-06-19 01:24:15;loss;53;989;1726;-737;white;Caro Kann Defense;daily
+2023-06-21 20:49:50;win;36;1008;1166;-158;white;Scandinavian Defense Closed 2...dxe4 3.Nxe4;daily
+2023-06-22 12:12:25;loss;13;1008;1727;-719;black;Pirc Defense Modern Defense Geller System 2...Nf6 3.Nc3 e5 4.Bc4;daily
+2023-06-27 02:22:04;loss;26;1003;1257;-254;black;Queens Gambit Declined Chigorin Defense 3.Nc3 Nf6;daily
+2023-06-27 17:06:28;loss;17;1003;1728;-725;white;Giuoco Piano Game Four Knights Game 5.O O;daily
+2023-07-09 16:32:56;loss;33;1003;1729;-726;black;Queens Pawn Opening 1...d5 2.e3 Nf6 3.c4;daily
+2023-07-13 21:05:20;loss;48;997;1200;-203;black;Bishops Opening Berlin Defense;daily
+2023-07-20 02:36:03;win;15;1004;843;161;white;Kings Pawn Opening Kings Knight Variation;daily
+2023-07-23 01:54:20;loss;35;1004;1732;-728;white;Giuoco Piano Game Giuoco Pianissimo Variation...5.Bg5 h6 6.Bh4 d6;daily
+2023-07-24 04:45:59;win;30;1021;1194;-173;white;Nimzowitsch Defense 2.d4 e6 3.Nf3 d5 4.e5;daily
+2023-07-30 17:12:03;win;12;1037;1181;-144;black;Giuoco Piano Game Giuoco Pianissimo Variation 4...Nf6;daily
+2023-08-02 18:22:19;loss;27;1030;1175;-145;black;Giuoco Piano Game Main Line Giuoco Pianissimo Variation 5...h6;daily
+2023-08-05 15:32:34;loss;43;1024;1176;-152;white;Italian Game 3...d6;daily
+2023-08-07 22:32:43;loss;47;1024;1733;-709;black;Four Knights Game Spanish Variation Classical Variation 5.O O O O;daily
+2023-08-15 18:10:16;loss;34;1024;1734;-710;white;Giuoco Piano Game Four Knights Game 5.O O;daily
+2023-08-16 00:58:07;loss;48;1014;1016;-2;white;Italian Game;daily
+2023-08-22 23:14:47;win;45;1028;1177;-149;white;Italian Game;daily
+2023-08-25 22:28:38;loss;35;1028;1737;-709;black;Ruy Lopez Opening Morphy Defense Anderssen Variation 5...b5 6.Bb3;daily
+2023-08-29 20:02:36;loss;24;1028;1740;-712;white;Philidor Defense 3.Bc4 Nf6;daily
+2023-08-31 15:45:28;win;9;1033;840;193;white;Four Knights Game Italian Variation;daily
+2023-08-31 19:22:01;win;21;1046;1167;-121;black;Bishops Opening Berlin Defense 3.d3;daily
+2023-09-02 20:44:40;loss;51;1034;1141;-107;black;Kings Fianchetto Opening 1...e5 2.Bg2;daily
+2023-09-02 20:59:53;win;29;1041;927;114;black;Queens Pawn Opening Chigorin Variation 2...Nf6 3.Bf4 e6;daily
+2023-09-09 12:26:15;loss;28;1035;1230;-195;white;Modern Defense with 1 e4 2.d4 Bg7 3.Nf3;daily
+2023-09-17 00:12:59;loss;21;1035;1741;-706;black;Giuoco Piano Game Four Knights Game 5.O O;daily
+2023-09-19 23:44:40;loss;26;1029;1147;-118;white;French Defense Advance Variation 3...Ne7;daily
+2023-09-21 12:51:07;win;29;1039;1085;-46;black;Kings Fianchetto Opening 1...e5 2.Bg2;daily
+2023-10-02 17:34:07;draw;80;1034;721;313;black;Vienna Game Falkbeer Variation 3.d4;daily
+2023-10-06 21:33:54;loss;35;1034;1744;-710;white;Giuoco Piano Game Giuoco Pianissimo Italian Four Knights Variation 5...h6;daily
+2023-10-06 21:39:43;loss;46;1027;1084;-57;white;Scandinavian Defense 2.e5;daily
+2023-10-09 14:45:35;win;38;1037;1117;-80;black;Bishops Opening Berlin Ponziani Gambit;daily
+2023-10-09 18:45:59;loss;23;1024;786;238;white;Kings Pawn Opening Kings Knight Gunderam Defense 3.Bc4;daily
+2023-10-14 22:37:30;win;26;1032;1025;7;black;Kings Pawn Opening 1...e5;daily
+2023-10-16 18:08:05;loss;20;1032;1754;-722;black;Ruy Lopez Opening Morphy Defense Columbus Variation...6.Bb3 Bc5 7.d3 O O;daily
+2023-10-18 00:14:54;win;25;1036;843;193;white;Giuoco Piano Game Giuoco Pianissimo Italian Four Knights Variation 5...O O;daily
+2023-10-27 17:46:31;win;41;1038;676;362;black;Bishops Opening Berlin Defense 3.d3 Bc5;daily
+2023-10-27 20:53:32;loss;39;1038;1755;-717;white;Giuoco Piano Game Giuoco Pianissimo Variation;daily
+2023-10-29 16:01:33;win;30;1044;957;87;white;Modern Defense with 1 e4 2.d4 Bg7 3.Nf3;daily
+2023-11-01 20:10:53;win;19;1050;931;119;black;Kings Fianchetto Opening 1...e5;daily
+2023-11-04 00:29:04;win;49;1058;1097;-39;white;Scandinavian Defense Closed 2...d4;daily
+2023-11-09 20:34:43;loss;53;1059;1758;-699;black;Ruy Lopez Opening Morphy Defense Columbus Variation...5.O O b5 6.Bb3 Bc5 7.d3;daily
+2023-11-12 19:34:15;loss;24;1046;755;291;white;Italian Game;daily
+2023-11-12 23:19:49;loss;24;1040;1091;-51;black;Bishops Opening Berlin Defense 3.d3;daily
+2023-11-19 07:11:31;loss;20;1034;1085;-51;white;Scandinavian Defense Closed 2...dxe4 3.Nxe4 Bf5;daily
+2023-11-20 16:45:47;loss;30;1034;1759;-725;white;Giuoco Piano Game Four Knights Game 5.O O;daily
+2023-11-21 10:05:54;win;29;1036;709;327;black;Bishops Opening Berlin Defense 3.d3;daily
+2023-11-22 02:04:36;loss;13;1030;1091;-61;black;Van t Kruijs Opening 1...e5;daily
+2023-11-27 15:22:25;win;14;1032;699;333;white;Kings Pawn Opening Kings Knight Variation;daily
+2023-11-29 16:42:59;win;24;1040;1075;-35;white;Philidor Defense 3.Bc4;daily
+2023-11-30 01:01:08;win;52;1045;909;136;white;Kings Pawn Opening Kings Knight Variation;daily
+2023-11-30 18:43:39;loss;30;1045;1771;-726;black;Ruy Lopez Opening Berlin Improved Steinitz Defense;daily
+2023-12-05 10:48:48;loss;28;1040;1135;-95;black;Scotch Game;daily
+2023-12-09 15:57:56;loss;22;1034;1082;-48;black;Nimzowitsch Defense Kennedy Variation 3.dxe5 Nxe5;daily
+2023-12-11 14:51:45;loss;31;1034;1771;-737;white;Sicilian Defense Bowdler Attack 2...e6;daily
+2023-12-12 17:42:15;win;43;1036;690;346;black;Vienna Game Anderssen Defense 3.Bc4 Nf6;daily
+2023-12-20 20:25:28;loss;35;1032;1211;-179;white;Scandinavian Defense Closed 2...d4;daily
+2023-12-20 22:38:39;loss;45;1022;948;74;black;Kings Fianchetto Opening 1...e5 2.Bg2 d5;daily
+2023-12-23 02:37:49;loss;14;1022;1772;-750;black;Ruy Lopez Opening Morphy Defense Columbus Variation...6.Bb3 Bc5 7.d3 O O;daily
+2023-12-26 20:28:13;loss;25;1018;1199;-181;white;Three Knights Opening 3...Bc5;daily
+2023-12-28 02:04:49;win;27;1020;682;338;white;Alekhines Defense 2.Nc3;daily
+2023-12-29 00:07:11;win;21;1026;927;99;white;Modern Defense Bishop Attack;daily
+2023-12-31 20:33:33;loss;58;1020;1109;-89;white;Caro Kann Defense 2.d4;daily
+2024-01-05 01:52:22;loss;32;1020;1772;-752;white;Giuoco Piano Game Four Knights Game 5.O O;daily
+2024-01-10 22:43:56;win;48;1025;909;116;black;Kings Fianchetto Opening 1...e5 2.Bg2 d5;daily
+2024-01-11 02:43:35;loss;31;1025;1772;-747;black;Ruy Lopez Opening Morphy Defense Columbus Variation...6.Bb3 Bc5 7.d3 d6;daily
+2024-01-13 10:51:55;win;32;1034;1087;-53;black;Undefined;daily
+2024-01-17 03:51:10;loss;18;1021;735;286;black;Kings Pawn Opening 1...e5;daily
+2024-01-17 03:55:34;loss;13;1021;1773;-752;white;Giuoco Piano Game Giuoco Pianissimo Variation 4...Nf6 5.O O d6;daily
+2024-01-22 18:23:22;win;31;1030;1078;-48;white;Scandinavian Defense Closed 2...d4;daily
+2024-01-24 11:48:52;loss;33;1020;940;80;white;Modern Defense with 1 e4 2.d4 Bg7 3.Nf3;daily
+2024-01-27 20:48:49;win;32;1023;726;297;white;Nimzowitsch Defense Declined Williams Variation;daily
+2024-01-28 14:07:49;loss;35;1023;1773;-750;black;Ruy Lopez Opening Morphy Defense Caro Variation 5.Bb3;daily
+2024-01-30 16:44:44;loss;32;1017;1100;-83;black;Bishops Opening Berlin Defense;daily
+2024-02-01 19:28:54;loss;24;1008;966;42;black;Kings Fianchetto Opening 1...e5 2.Bg2 Nf6;daily
+2024-02-03 19:43:57;loss;26;1008;1773;-765;white;Italian Game Two Knights Modern Bishops Opening 4...h6 5.Nc3;daily
+2024-02-06 12:43:49;win;13;1014;948;66;white;Owens Defense 2.d4 Bb7 3.Nc3;daily
+2024-02-09 15:33:54;loss;35;1009;1117;-108;white;Scandinavian Defense Closed 2...d4;daily
+2024-02-16 00:50:18;loss;32;1009;1771;-762;black;Ruy Lopez Opening Morphy Defense Neo Arkhangelsk Variation;daily
+2024-02-16 13:27:13;loss;24;1008;1466;-458;white;Four Knights Game Italian Variation 4...Nxe4 5.Nxe4 d5;daily
+2024-02-17 16:24:48;win;34;1011;717;294;black;Kings Pawn Opening Leonardis Variation 2...Nf6;daily
+2024-02-22 01:07:41;draw;53;1013;1122;-109;black;Bishops Opening Berlin Defense 3.d3;daily
+2024-03-02 15:47:16;loss;19;1008;1143;-135;white;Kings Pawn Opening Kings Knight Variation;daily
+2024-03-04 17:04:25;win;24;1014;922;92;black;Kings Fianchetto Opening 1...e5 2.Bg2 Nf6;daily
+2024-03-04 17:19:27;loss;55;1014;1759;-745;white;Italian Game Two Knights Modern Bishops Opening 4...Be7;daily
+2024-03-08 16:51:32;loss;42;1013;1477;-464;black;Scotch Game;daily
+2024-03-09 12:38:17;win;28;1015;709;306;white;Italian Game;daily
+2024-03-09 16:16:04;win;21;1026;1211;-185;black;Queens Pawn Opening Zukertort Chigorin Variation;daily
+2024-03-11 19:13:18;loss;27;1021;1163;-142;black;Nimzowitsch Defense Kennedy Linksspringer Variation;daily
+2024-03-17 16:51:53;loss;35;1020;1487;-467;white;Four Knights Game Italian Variation 4...Nxe4 5.Nxe4 d5;daily
+2024-03-21 02:54:34;win;33;1030;1137;-107;white;Kings Pawn Opening Kings Knight Variation;daily
+2024-03-22 01:21:00;loss;46;1030;1759;-729;black;Ruy Lopez Opening Morphy Defense Deferred Classical Defense 5.O O;daily
+2024-03-22 17:18:08;win;26;1035;910;125;white;Indian Game Knights Variation East Indian Defense 3.Nc3 Bg7 4.e4;daily
+2024-03-22 18:05:05;loss;34;1023;753;270;black;Nimzowitsch Defense Kennedy Variation 3.dxe5 Nxe5;daily
+2024-03-25 16:30:56;loss;34;1022;1496;-474;black;Queens Pawn Opening Zukertort Variation 2...e6 3.Bf4 Bd6;daily
+2024-04-01 22:06:52;loss;26;1017;1118;-101;black;Bishops Opening Berlin Defense 3.d3 Bc5;daily
+2024-04-07 00:16:45;loss;40;1005;792;213;white;Kings Pawn Opening Kings Knight Variation;daily
+2024-04-09 02:00:08;loss;31;1004;1504;-500;black;Bishops Opening Berlin Defense 3.d3;daily
+2024-04-12 15:42:28;win;39;1005;520;485;black;Kings Pawn Opening Leonardis Variation;daily
+2024-04-13 16:22:04;loss;18;994;827;167;black;Queens Pawn Opening 1...d5 2.e3;daily
+2024-04-14 15:58:57;loss;41;993;1511;-518;white;Bishops Opening Berlin Defense 3.d3 Be7 4.Nf3 d6;daily
+2024-04-16 17:53:10;loss;37;993;1769;-776;white;Giuoco Piano Game Giuoco Pianissimo Variation 4...Nf6;daily
+2024-04-16 21:07:17;loss;38;984;930;54;black;Kings Fianchetto Opening 1...e5 2.Bg2 Nf6;daily
+2024-04-19 21:37:40;win;53;990;917;73;white;Owens Defense 2.d4 Bb7 3.Nc3 e6;daily
+2024-04-23 01:11:35;win;32;1000;1115;-115;white;Italian Game;daily
+2024-04-24 16:15:49;win;32;1004;815;189;white;Kings Pawn Opening Kings Knight Variation;daily
+2024-04-26 18:55:30;loss;18;995;936;59;black;Queens Pawn Opening Mikenas Defense 2.Nf3;daily
+2024-05-09 15:10:46;loss;29;990;1113;-123;black;Italian Game Knight Attack Normal Variation 5.exd5;daily
+2024-05-17 17:16:11;loss;44;990;1749;-759;black;Ruy Lopez Opening Morphy Defense Arkhangelsk Variation 7.d3 Bc5 8.Nc3;daily
+2024-05-20 16:03:18;loss;64;982;955;27;white;French Defense Normal Variation...3.Nc3 Nc6 4.Nf3 Nf6;daily
+2024-06-02 16:56:03;loss;20;982;1749;-767;white;Giuoco Piano Game 4.O O Nf6 5.d3 O O;daily
+2024-06-04 00:16:05;win;66;986;802;184;black;Scandinavian Defense Modern Marshall Variation;daily
+2024-06-05 01:55:13;win;51;996;1102;-106;white;Scandinavian Defense Closed 2...d4;daily
+2024-06-05 23:00:27;loss;42;988;974;14;black;Scotch Game;daily
+2024-06-10 15:05:11;win;23;997;1086;-89;black;Bishops Opening Berlin Defense 3.d3 Bc5 4.Nf3 d6;daily
+2024-06-11 16:18:09;loss;27;997;1751;-754;black;Ruy Lopez Opening Morphy Defense Columbus Variation...6.Bb3 Bc5 7.Nc3 d6;daily
+2024-06-17 02:23:17;win;43;1001;839;162;white;Italian Game;daily
+2024-06-17 19:05:10;loss;32;993;992;1;white;Alekhines Defense 2.Nc3;daily
+2024-06-21 19:17:54;win;45;1002;1070;-68;white;Scandinavian Defense Closed 2...d4 3.Nce2 e5;daily
+2024-06-25 03:39:40;win;15;1004;683;321;white;Philidor Defense 3.Bc4;daily
+2024-06-25 14:12:59;loss;26;998;1080;-82;black;Nimzowitsch Defense Kennedy Linksspringer Variation 3...Nce7;daily
+2024-07-02 14:24:40;loss;51;998;1773;-775;white;Giuoco Piano Game 4.O O Nf6 5.d3 h6;daily
+2024-07-02 16:30:24;loss;32;992;1087;-95;white;Nimzowitsch Defense 2.d4 e6 3.Nf3 d5 4.e5;daily
+2024-07-03 21:35:32;win;31;993;570;423;black;Nimzowitsch Defense Kennedy Variation;daily
+2024-07-04 01:38:00;win;40;1000;975;25;black;Queens Pawn Opening Zukertort Chigorin Variation;daily
+2024-07-10 20:16:51;loss;36;994;1093;-99;black;Kings Pawn Opening Leonardis Variation 2...Nf6;daily
+2024-07-17 16:03:39;win;54;999;826;173;black;Van Geet Opening Reversed Nimzowitsch Variation 2.Nf3 Nc6;daily
+2024-07-18 16:13:40;win;36;1009;1071;-62;white;Nimzowitsch Defense 2.d4 e6 3.Nf3 d5 4.e5;daily
+2024-07-21 14:40:47;loss;36;1009;1774;-765;black;Four Knights Game Spanish Variation Classical Variation 5.O O O O;daily
+2024-07-31 01:50:46;win;33;1011;680;331;white;Italian Game;daily
+2024-07-31 23:21:03;loss;45;1001;974;27;white;Sicilian Defense Bowdler Attack 2...e6;daily
+2024-08-01 23:19:25;loss;38;992;995;-3;white;Scandinavian Defense Closed 2...dxe4;daily
+2024-08-03 15:58:17;loss;47;986;1086;-100;black;Center Game;daily
+2024-08-13 13:10:01;loss;38;986;1776;-790;white;Closed Sicilian Defense Traditional Line 3.Nf3 d6 4.Bc4;daily
+2024-08-19 21:37:02;win;25;991;780;211;black;Colle System;daily
+2024-08-21 02:18:19;win;51;1005;1168;-163;white;Kings Pawn Opening Kings Knight Variation;daily
+2024-08-23 20:46:41;loss;27;1005;1797;-792;black;Ruy Lopez Opening Berlin Rio Gambit Accepted 5.Re1;daily
+2024-09-03 20:31:09;loss;42;996;1060;-64;black;Giuoco Piano Game Giuoco Pianissimo Italian Four Knights Variation 5...h6;daily
+2024-09-06 02:45:14;loss;31;996;1770;-774;white;Sicilian Defense Old Sicilian Variation 3.Bc4 e6 4.Nc3;daily
+2024-09-27 02:28:37;loss;39;979;857;122;white;Sicilian Defense Old Sicilian Variation 3.d3;daily
+2024-10-02 01:13:08;loss;31;979;1783;-804;black;Ruy Lopez Opening Morphy Defense Columbus Variation...5.O O b5 6.Bb3 Bc5 7.Nc3;daily
+2024-10-21 16:29:31;loss;20;979;1765;-786;white;Petrovs Defense 3.d3 Nc6;daily
+2024-10-26 22:22:25;win;11;996;1065;-69;black;Scotch Game;daily
+2024-11-23 03:50:07;loss;46;996;1766;-770;white;French Defense Advance Variation 3...c5;daily
+2024-11-24 13:24:49;win;31;1007;875;132;black;Queens Pawn Opening Zukertort Variation;daily
+2024-12-06 12:01:15;win;6;1016;810;206;black;Van t Kruijs Opening 1...e5;daily
+2024-12-17 19:47:01;win;30;1031;985;46;white;Philidor Defense 3.Bc4;daily
+2024-12-17 23:06:16;loss;35;1031;1785;-754;black;Kings Pawn Opening 1...e5;daily
+2024-12-21 14:00:52;loss;11;1004;544;460;white;Petrovs Defense Classical Variation;daily
+2025-01-08 21:29:02;loss;32;1004;1786;-782;white;Sicilian Defense French Variation 3.d4;daily
+2025-01-11 22:14:56;win;39;1016;880;136;black;Italian Game;daily
+2025-01-13 06:17:03;loss;11;999;1024;-25;white;Giuoco Piano Game Giuoco Pianissimo Variation 4...Nf6 5.O O d6;daily
+2025-01-25 17:01:33;win;9;1011;878;133;black;Queens Gambit Declined Marshall Defense 3.cxd5 Nxd5 4.e4 Nf6 5.Nc3;daily
+2025-02-01 13:46:49;win;12;1022;874;148;white;Pirc Defense 2.d4 Nf6 3.Bd3;daily
+2025-02-22 17:17:12;loss;40;1005;1033;-28;black;Center Game;daily
+2025-02-23 18:35:11;loss;55;1005;1790;-785;black;Ruy Lopez Opening Morphy Defense Tarrasch Variation 5...b5 6.Bb3;daily
+2025-03-05 00:48:32;loss;22;1004;1766;-762;white;Giuoco Piano Game...5.d3 O O 6.h3 d6;daily
+2025-03-10 17:40:38;loss;17;988;1046;-58;white;Scandinavian Defense Closed 2...d4;daily
+2025-03-12 17:07:41;loss;19;980;1194;-214;black;Giuoco Piano Game Giuoco Pianissimo Italian Four Knights Variation 5...h6;daily
+2025-03-16 21:43:23;loss;17;979;1749;-770;black;Giuoco Piano Game 4.O O Nf6 5.d3 h6;daily
+2025-03-24 16:02:02;win;26;1000;1046;-46;black;Bishops Opening Berlin Ponziani Gambit;daily
+2025-04-01 03:39:24;win;39;1016;969;47;black;Van t Kruijs Opening 1...e5;daily
+2025-04-01 20:53:15;loss;30;1002;1075;-73;white;Scandinavian Defense;daily
+2025-04-04 02:47:02;win;29;1168;867;301;white;Petrovs Defense;blitz
+2025-04-04 23:28:03;loss;35;1010;1131;-121;black;Four Knights Game Italian Variation;blitz
+2025-04-07 23:28:59;win;13;1103;977;126;black;Italian Game Two Knights Modern Bishops Opening 4...Be7 5.Nc3 d6;blitz
+2025-04-10 01:41:14;loss;34;985;1001;-16;white;Alekhines Defense Scandinavian Variation;daily
+2025-04-11 21:07:06;loss;25;985;1750;-765;white;Sicilian Defense Smith Morra Gambit 2...cxd4 3.Qxd4 Nc6;daily
+2025-04-13 18:31:41;win;31;1005;1074;-69;black;Undefined;daily
+2025-04-15 14:15:53;loss;17;1032;1142;-110;black;Queens Gambit Declined Chigorin Defense 3.Nf3 e6 4.Nc3 Nf6 5.Bg5;blitz
+2025-04-15 14:21:49;loss;38;969;1048;-79;white;Reti Opening Queenside Fianchetto Variation 2.e4 Bb7;blitz
+2025-04-18 15:01:07;win;10;1023;1057;-34;white;Scandinavian Defense Closed 2...d4;daily
+2025-05-05 19:35:46;loss;27;1009;1076;-67;black;Bishops Opening Berlin Ponziani Gambit;daily
+2025-05-05 21:02:09;loss;27;1008;1717;-709;black;Ruy Lopez Opening Morphy Defense Columbus Variation...5.O O b5 6.Bb3 Bc5 7.d3;daily
+2025-05-07 23:15:04;loss;46;993;1030;-37;black;Center Game;daily
+2025-05-14 21:56:04;win;21;1011;1047;-36;white;French Defense Knight Variation 2...d5 3.e5;daily
+2025-05-18 02:53:26;loss;20;1010;1718;-708;white;French Defense Winawer Variation 4.Bd3 dxe4 5.Bxe4 Nf6;daily
+2025-05-23 22:24:38;win;32;1025;1001;24;white;Scandinavian Defense 2.e5;daily
+2025-05-24 19:07:14;loss;26;1011;1039;-28;black;Bishops Opening;daily
+2025-05-27 14:29:53;loss;30;915;994;-79;white;Italian Game 3...d6;blitz
+2025-05-27 14:40:13;win;18;962;892;70;black;Kings Pawn Opening 1...e5;blitz
+2025-05-27 22:39:31;loss;13;920;977;-57;black;Vienna Game Anderssen Defense 3.Bc4 Nf6;blitz
+2025-05-28 01:15:55;loss;31;880;908;-28;white;Owens Defense 2.d4 Bb7 3.Nc3 e6 4.Nf3;blitz
+2025-05-28 18:43:34;loss;16;847;933;-86;white;Kings Pawn Opening Kings Knight Variation;blitz
+2025-06-01 22:03:40;loss;21;1010;1719;-709;black;Ruy Lopez Opening Morphy Defense Columbus Variation...6.Bb3 Bc5 7.Nc3 d6;daily
+2025-06-02 22:18:25;loss;24;995;1028;-33;black;Nimzowitsch Defense Kennedy Linksspringer Variation;daily
+2025-06-03 00:08:39;loss;19;814;852;-38;black;Kings Gambit;blitz
+2025-06-03 13:34:09;win;22;845;823;22;white;Caro Kann Defense Advance Short Variation with 4 Nf3;blitz
+2025-06-03 14:19:46;loss;16;817;846;-29;black;Saragossa Opening 1...e5;blitz
+2025-06-09 05:06:53;win;28;1012;1043;-31;white;Philidor Defense 3.Bc4;daily
+2025-06-09 17:51:14;loss;20;789;797;-8;white;Giuoco Piano Game 4.Nc3;blitz
+2025-06-09 17:56:44;win;29;813;779;34;black;Kings Pawn Opening Tortoise Opening;blitz
+2025-06-09 20:14:00;loss;32;791;831;-40;white;Italian Game Two Knights Modern Bishops Opening 4...Be7 5.Nc3;blitz
+2025-06-10 13:22:45;loss;9;770;798;-28;black;Giuoco Piano Game Giuoco Pianissimo Variation 4...Nf6 5.Bg5;blitz
+2025-06-10 13:26:26;loss;27;749;765;-16;white;French Defense Knight Variation;blitz
+2025-06-10 13:33:55;loss;41;729;746;-17;white;French Defense Knight Variation;blitz
+2025-06-12 23:26:02;loss;42;711;733;-22;black;Queens Pawn Opening Zukertort Variation 2...Bf5;blitz
+2025-06-16 01:40:07;win;48;726;649;77;black;Indian Game 2.Bf4 e6 3.e3 d5 4.Nf3;blitz
+2025-06-16 14:38:12;loss;23;999;1057;-58;black;Bishops Opening Berlin Ponziani Gambit;daily
+2025-06-17 22:47:40;win;23;1014;1001;13;white;Scandinavian Defense;daily
+2025-06-18 00:36:31;loss;30;1013;1725;-712;white;French Defense Advance Nimzowitsch System 4...Nc6;daily
+2025-06-22 04:56:06;win;18;1026;978;48;black;Van t Kruijs Opening 1...e5;daily
+2025-06-24 11:47:13;loss;21;708;723;-15;white;French Defense Knight Variation;blitz
+2025-06-25 18:20:15;win;19;1041;1057;-16;white;Scandinavian Defense Closed 2...d4;daily
+2025-06-27 02:37:19;loss;17;693;766;-73;black;Kings Pawn Opening Leonardis Variation 2...Nf6;blitz
+2025-06-28 22:11:05;loss;23;678;740;-62;white;Kings Pawn Opening Kings Knight Variation;blitz
+2025-06-30 21:53:44;win;6;1052;959;93;white;Scandinavian Defense 2.e5;daily
+2025-07-08 13:43:39;win;31;692;612;80;black;Four Knights Game Scotch Variation 4...Bb4;blitz
+2025-07-16 01:25:50;loss;40;1051;1765;-714;black;Four Knights Game Spanish Variation Classical Variation 5.O O;daily
+2025-07-18 14:11:38;win;28;1061;942;119;black;Mieses Opening 1...d5;daily
+2025-07-19 05:12:05;win;39;1074;1039;35;black;Petrovs Defense 3.d3 Nc6 4.c3;daily
+2025-07-21 02:54:30;win;25;709;694;15;white;Kings Pawn Opening Kings Knight Variation;blitz
+2025-08-09 02:48:02;loss;48;1055;973;82;white;Scandinavian Defense Closed 2...dxe4 3.Nxe4;daily
+2025-08-13 09:58:37;win;28;1068;1017;51;white;Nimzowitsch Defense 2.d4 e6 3.Nf3 d5 4.e5;daily
+2025-08-15 00:02:13;loss;36;1067;1766;-699;white;French Defense Advance Nimzowitsch System 4...Nc6;daily
+2025-08-20 18:36:42;win;42;1078;956;122;black;Kings Pawn Opening 1...e5;daily
+2025-08-22 21:39:12;win;8;1089;982;107;black;Bishops Opening Berlin Defense;daily
+2025-08-22 23:19:40;loss;35;691;724;-33;black;Scotch Game;blitz
+2025-08-22 23:21:19;loss;9;670;645;25;white;Kings Pawn Opening Kings Knight Variation;blitz
+2025-09-09 12:03:27;loss;32;1071;1019;52;white;French Defense Knight Variation 2...d5 3.e5 c5;daily
+2025-09-11 21:54:25;loss;33;1053;986;67;white;Queens Pawn Opening Blackmar Blackmar Diemer Gambit;daily
+2025-10-08 15:26:07;win;41;1068;1022;46;black;Bishops Opening Berlin Defense 3.d3;daily
+2025-10-08 21:45:02;loss;43;1067;1768;-701;black;Ruy Lopez Opening Berlin Defense 4.d3;daily
+2025-10-12 20:27:15;loss;55;1049;1015;34;black;Ponziani Opening;daily
+2025-10-23 03:25:21;loss;30;1033;1045;-12;black;Queens Pawn Opening Torre Gossip Variation;daily
+2025-10-31 13:07:17;loss;8;1018;1079;-61;white;Italian Game Two Knights Modern Bishops Opening 4...h6 5.Nc3;daily
+2025-11-03 02:48:43;win;42;1033;992;41;white;Alekhines Defense 2.e5;daily
+2025-11-08 17:16:24;win;16;694;675;19;white;Giuoco Piano Game 4.O O Nf6 5.d3 h6;blitz
+2025-11-08 21:22:46;win;12;714;657;57;white;Italian Game Two Knights Defense;blitz
+2025-11-11 02:13:12;win;16;735;703;32;black;Giuoco Piano Game Four Knights Game;blitz
+2025-11-13 00:39:46;loss;20;720;826;-106;black;Queens Pawn Opening Zukertort Chigorin Variation;blitz
+2025-11-15 03:14:32;loss;28;701;724;-23;black;Nimzowitsch Defense Declined Williams Variation 3.d4 Nf6 4.Nc3;blitz
+2025-11-16 05:13:24;loss;34;684;735;-51;white;Four Knights Game Italian Variation;blitz
+2025-11-16 18:15:01;loss;48;1032;1745;-713;white;French Defense Advance Nimzowitsch System 4...Nc6;daily
+2025-11-16 18:53:42;win;44;1050;1068;-18;white;Nimzowitsch Defense 2.d4 e6 3.Nf3 d5 4.e5;daily
+2025-11-17 01:44:27;loss;32;666;688;-22;black;Queens Gambit Declined Queens Knight Variation 3...Nf6 4.e3;blitz
+2025-11-19 01:40:26;loss;28;650;686;-36;black;Scotch Game;blitz
+2025-11-20 01:58:23;loss;33;634;666;-32;white;Modern Defense with 1 e4 2.d4 Bg7 3.Nf3;blitz
+2025-11-21 04:03:05;loss;22;621;691;-70;white;Kings Pawn Opening Kings Knight Variation;blitz
+2025-11-24 03:11:17;win;32;638;662;-24;black;Queens Pawn Opening Zukertort Chigorin Variation 3.Bf4 Nf6 4.e3;blitz
+2025-11-24 13:17:03;win;19;1067;1067;0;black;Bishops Opening Berlin Defense 3.d3;daily
+2025-11-25 03:08:56;win;22;653;649;4;white;Four Knights Game Italian Variation;blitz
+2025-11-26 02:45:24;win;22;668;655;13;white;Philidor Defense 3.Bc4;blitz
+2025-11-29 21:43:47;loss;33;651;609;42;white;Alekhines Defense Scandinavian Variation;blitz
+2025-12-02 22:27:39;win;15;1069;387;682;white;Kings Pawn Opening Kings Knight Variation;daily
+2025-12-03 13:21:17;win;42;1085;1067;18;white;Scandinavian Defense;daily
+2025-12-04 09:58:40;loss;19;636;626;10;black;Queens Gambit Declined Exchange Positional Line;blitz
+2025-12-05 20:33:54;loss;39;1084;1747;-663;black;Petrovs Defense Classical Variation;daily
+2025-12-10 18:35:44;win;46;1095;974;121;black;Center Game;daily
+2025-12-13 08:28:00;win;18;1096;377;719;white;Pirc Defense 2.Bc4;daily
+2025-12-15 17:34:31;win;24;1110;1074;36;black;Bishops Opening Berlin Defense 3.d3;daily
+2025-12-18 18:57:32;loss;38;1109;1750;-641;white;Sicilian Defense Bowdler Attack;daily
+2025-12-18 23:03:44;loss;14;627;779;-152;black;Ruy Lopez Opening Morphy Defense Modern Steinitz Defense 5.d4 b5 6.Bb3;blitz
+2025-12-19 12:29:17;win;11;1110;369;741;black;Vienna Game Anderssen Defense 3.Nf3 d6;daily
+2025-12-21 05:15:03;loss;37;613;634;-21;black;Queens Pawn Opening 1...d5 2.e3 e6;blitz
+2025-12-30 05:20:04;loss;31;1109;1780;-671;black;Kings Pawn Opening 1...e5;daily
+2026-01-05 00:16:59;loss;46;1089;1008;81;white;Alekhines Defense Maroczy Variation 2...d5;daily
+2026-01-05 01:33:54;loss;18;1088;1781;-693;white;French Defense Knight Variation 2...d5;daily
+2026-01-12 22:43:01;win;49;1102;1037;65;white;French Defense Knight Variation 2...d5 3.e5;daily
+2026-01-18 01:23:17;win;28;1113;990;123;black;Center Game;daily
+2026-01-20 22:32:02;win;21;1124;1017;107;black;Bishops Opening Berlin Defense 3.d3;daily
+2026-01-21 14:19:09;loss;35;596;612;-16;white;Nimzowitsch Defense Declined;blitz
+2026-01-22 12:07:05;loss;36;1123;1783;-660;black;Petrovs Defense Three Knights Game;daily
+2026-01-23 19:22:47;loss;31;583;663;-80;black;Queens Gambit Declined Albin Countergambit;blitz
+2026-01-24 08:11:41;loss;23;567;566;1;white;Philidor Defense 3.Bc4;blitz
+2026-01-25 04:05:33;loss;29;550;527;23;black;Giuoco Piano Game Four Knights Game;blitz
+2026-01-26 18:42:36;win;34;562;485;77;white;Kings Pawn Opening Kings Knight Variation;blitz
+2026-01-27 12:27:33;win;12;576;560;16;black;Kings Pawn Opening 1...e5;blitz
+2026-01-29 20:39:05;loss;34;563;602;-39;black;English Opening Reversed Sicilian Closed 3.g3 Nf6 4.Bg2 Bc5;blitz
+2026-01-29 22:21:20;loss;14;550;570;-20;white;Petrovs Defense Three Knights Game;blitz
+2026-01-30 20:44:40;win;49;459;1200;-741;white;;daily
+2026-02-01 17:16:33;loss;39;1123;1783;-660;white;Italian Game Two Knights Modern Bishops Opening 4...h6;daily
+2026-02-03 18:02:58;loss;50;1103;1023;80;white;French Defense Advance Variation;daily
+2026-02-05 17:27:58;win;38;1113;973;140;white;French Defense Knight Variation 2...d5 3.e5;daily
+2026-02-10 20:57:19;loss;26;1113;1768;-655;black;Four Knights Game Spanish Variation Classical Variation;daily
+2026-02-24 03:41:12;loss;34;1093;1030;63;black;Bishops Opening Berlin Defense;daily
+2026-02-24 16:53:43;win;9;1103;957;146;white;French Defense Rubinstein Maric Variation 5.Nc3;daily
+2026-03-03 18:22:29;loss;48;1103;1774;-671;white;Giuoco Piano Game Four Knights Game;daily
+2026-03-28 17:46:36;loss;39;1084;1070;14;white;Three Knights Opening 3...d6;daily
+2026-03-31 16:44:38;loss;31;1084;1713;-629;black;Four Knights Game Spanish Variation Classical Variation 5.O O O O;daily
+2026-04-28 23:45:17;win;22;1096;939;157;black;Queens Pawn Opening Chigorin Variation 2...Nf6 3.Bf4 e6 4.e3;daily
+2026-04-29 16:41:10;win;22;1096;120;976;white;Scandinavian Defense 2.e5;daily
+2026-04-30 16:58:43;loss;35;1077;1084;-7;black;Bishops Opening Berlin Spielmann Attack;daily
+2026-05-02 18:21:44;loss;28;1077;1713;-636;white;Four Knights Game Italian Variation;daily
+2026-05-07 15:54:54;win;21;1077;100;977;black;Kings Pawn Opening 1...e5;daily
